@@ -1,6 +1,12 @@
-<h1 align="center">Nouzen</h1>
 <p align="center">
-  GameDev · AI/ML · Fullstack<br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=170&section=header&text=Nouzen&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=520&lines=GameDev+%C2%B7+AI%2FML+%C2%B7+Fullstack;Python+%7C+Godot+%7C+PyTorch;%D0%9F%D0%B8%D1%88%D1%83+%D0%B1%D0%BE%D1%82%D1%8B%2C+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B+%D0%B8+%D0%B8%D0%B3%D1%80%D1%8B">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=520&lines=GameDev+%C2%B7+AI%2FML+%C2%B7+Fullstack;Python+%7C+Godot+%7C+PyTorch">
+  </picture>
 </p>
 
 <p align="center">
@@ -11,33 +17,127 @@
 </p>
 
 ---
+
 ### Languages
+
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
+
 ### AI / ML
+
+
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+
+
+
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+
+
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+
+
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+
+
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+
+
 ### Bots & Backend
-![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Discord](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+
+
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+
+
+
+![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+
+
+
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
 
 ### GameDev & Tools
 
-![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![RPG Maker](https://img.shields.io/badge/RPG_Maker-2C3E50?style=for-the-badge&logo=rpgmaker&logoColor=white)
+
+
+![Godot 4](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+
+
+
+![RPG Maker](https://img.shields.io/badge/RPG_Maker-2C3E50?style=for-the-badge&logo=javascript&logoColor=white)
+
+
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
+
+---
+
+### Проекты
+
+| Проект | Описание | Стек |
+|---|---|---|
+| [StalZone-Clan-Bot](https://github.com/Nouzen244/StalZone-Clan-Bot) | Telegram-бот для клана STALCRAFT:X — мониторинг аккаунтов и уведомления | Python, aiogram, SQLite |
+| [StalZone-Clan-Tools](https://github.com/Nouzen244/StalZone-Clan-Tools) | Десктопный набор утилит: калькуляторы крафта и TTK, работа с аукционом, оверлеи | Python, OpenCV |
+| [navigator-po-smyslu](https://github.com/Nouzen244/navigator-po-smyslu) | Семантический поиск по коду. Сравнение мультиязычных sentence-transformers, Precision@3 = 0.92 | Python, PyTorch, Transformers |
+| [AI-Maneuver-Agent](https://github.com/Nouzen244/AI-Maneuver-Agent) | Агент для маневровна дороге в разных ситуациях | Python |
+| [aachen-last-session](https://github.com/Nouzen244/aachen-last-session) | Хоррор-симулятор ходьбы в духе Fears to Fathom | Godot 4, GDScript |
+| [BarbarianLabyrinth](https://github.com/Nouzen244/BarbarianLabyrinth) | Игра на RPG Maker | JavaScript |
+
+---
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nouzen244&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouzen244&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=BarbarianLabyrinth" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nouzen244/Nouzen244/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Nouzen244/Nouzen244/output/snake-light.svg">
+  </picture>
 </p>
