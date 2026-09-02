@@ -121,6 +121,10 @@
 
 
 ---
+<details>
+<summary><b>Подробнее о проектах</b></summary>
+
+<br>
 
 ### Проекты
 
@@ -133,7 +137,16 @@
 | [aachen-last-session](https://github.com/Nouzen244/aachen-last-session) | Хоррор-симулятор ходьбы в духе Fears to Fathom | Godot 4, GDScript |
 | [BarbarianLabyrinth](https://github.com/Nouzen244/BarbarianLabyrinth) | Игра на RPG Maker | JavaScript |
 
+</details>
+
+
 ---
+
+### Достижения
+
+- 🥈 2 место — всероссийский конкурс исследовательских работ (информатика, RAG-системы)
+- 🥇 1 место — I тур олимпиады «Яндекс Учебник» по информатике, 2024
+- 👥 Senior Instructor программы менторства Arena Breakout: Infinity — обучение новых игроков в крупном Discord-сообществе
 
 <p align="center">
   <picture>
