@@ -5,9 +5,9 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=520&lines=GameDev+%C2%B7+AI%2FML+%C2%B7+Fullstack;Python+%7C+Godot+%7C+PyTorch;%D0%9F%D0%B8%D1%88%D1%83+%D0%B1%D0%BE%D1%82%D1%8B%2C+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B+%D0%B8+%D0%B8%D0%B3%D1%80%D1%8B">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=520&lines=GameDev+%C2%B7+AI%2FML+%C2%B7+Fullstack;Python+%7C+Godot+%7C+PyTorch">
-  </picture>
-</p>
+    <p align="center">
+  <img src="https://raw.githubusercontent.com/Nouzen244/Nouzen244/main/assets/terminal.svg" width="640" />
+    </p>
 
 <p align="center">
   <a href="https://t.me/Fox_101_1">
