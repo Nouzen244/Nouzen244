@@ -136,6 +136,7 @@
 | [AI-Maneuver-Agent](https://github.com/Nouzen244/AI-Maneuver-Agent) | Агент для маневровна дороге в разных ситуациях | Python |
 | [aachen-last-session](https://github.com/Nouzen244/aachen-last-session) | Хоррор-симулятор ходьбы в духе Fears to Fathom | Godot 4, GDScript |
 | [BarbarianLabyrinth](https://github.com/Nouzen244/BarbarianLabyrinth) | Игра на RPG Maker | JavaScript |
+| [StalZone Tools] | Набор инструментов упрощающий различные игровые механики и экономит время | Python, JavaScript, CSS, HTML, Rust |
 
 </details>
 
